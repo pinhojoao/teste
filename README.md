@@ -57,4 +57,3 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 
 - Os valores das conversões das moedas podem ser dados fixos no banco de dados.
 - Testes são sempre bem-vindos :smiley:
-

@@ -18,25 +18,25 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 {
     "currencies": [
         {
-            "name": "BTC",
-            "description": "Bitcoin",
-            "image": "http://altcoinlab.netxs.com.br/test/icons/bitcoin.png",
-            "conversion": {
-                "btc": 1,
-                "usd": 6973.18
-            },
-            "balance": 0
-        },
-        {
-            "name": "ETH",
-            "description": "Ethereum",
-            "image": "http://altcoinlab.netxs.com.br/test/icons/ethereum.png",
-            "conversion": {
-                "btc": 0.002,
-                "usd": 132.19
-            },
-            "balance": 2.13
-        }
+            "name": "BTC",
+            "description": "Bitcoin",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/bitcoin.png",
+            "conversion": {
+                "btc": 1,
+                "usd": 6973.18
+            },
+            "balance": 0
+        },
+        {
+            "name": "ETH",
+            "description": "Ethereum",
+            "image": "http://altcoinlab.netxs.com.br/test/icons/ethereum.png",
+            "conversion": {
+                "btc": 0.002,
+                "usd": 132.19
+            },
+            "balance": 2.13
+        }
     ]
 }
 ```

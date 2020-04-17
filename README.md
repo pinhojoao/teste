@@ -16,7 +16,7 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 
 ```json
 {
-    "currencies": [
+    "currencies": [
         {
             "name": "BTC",
             "description": "Bitcoin",

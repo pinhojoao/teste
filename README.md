@@ -17,9 +17,9 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 ```json
 {
     "currencies": [
-        {
-            "name": "BTC",
-            "description": "Bitcoin",
+        {
+            "name": "BTC",
+            "description": "Bitcoin",
             "image": "http://altcoinlab.netxs.com.br/test/icons/bitcoin.png",
             "conversion": {
                 "btc": 1,

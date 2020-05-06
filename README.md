@@ -58,13 +58,6 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 - Os valores das conversões das moedas podem ser dados fixos no banco de dados.
 - Testes são sempre bem-vindos :smiley:
 
-### Olá, eu sou (Goku) Thiago
-
-Por indicação da Beatriz, eu acabei fazendo o teste de vocês.
-Acho que o código tá bem documentado. Mas se ficar alguma duvida,
-sobre rotas, payloads, ou qualquer coisa, entre em contato
-
-    t.molinex@gmail.com
 
 Para rodar o teste, primeiro, rode
 

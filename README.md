@@ -57,3 +57,10 @@ Ao finalizar o teste, submeta um pull request para o repositório e nosso time s
 
 - Os valores das conversões das moedas podem ser dados fixos no banco de dados.
 - Testes são sempre bem-vindos :smiley:
+
+
+Para rodar o teste, primeiro, rode
+
+    php artisan setup
+
+Que vai preparar o ambiente, depois é só seguir o fluxo normal
